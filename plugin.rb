@@ -1,7 +1,7 @@
 # name: discourse-topic-permissions
 # about: A plugin to add topic-specific access permissions
 # version: 0.1
-# authors: Zahra Farhangi
+# author: Zahra Farhangi
 # url: https://github.com/ZahraFarhangi/discourse-topic-permissions
 
 enabled_site_setting :topic_permissions_enabled
